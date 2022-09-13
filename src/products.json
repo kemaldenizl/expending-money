@@ -1,0 +1,73 @@
+[
+        {
+            "id":1,
+            "productName": "Laptop",
+            "productPrice": 1499,
+            "productPhoto": "https://www.notebookcheck-tr.com/uploads/tx_nbc2/MicrosoftSurfaceLaptop3-15__2__02.JPG"            
+        },
+        {
+            "id":2,
+            "productName": "Phone",
+            "productPrice": 999,
+            "productPhoto": "https://auspost.com.au/shop/static/WFS/AusPost-Shop-Site/-/AusPost-Shop-auspost-B2CWebShop/en_AU/feat-cat/category-tiles/MP_UnlockedPhones_3.jpg" 
+        },
+        {
+            "id":3,
+            "productName": "Watch",
+            "productPrice": 799,
+            "productPhoto": "https://m.media-amazon.com/images/I/610OiiTm9PL._SX425_.jpg" 
+        },
+        {
+            "id":4,
+            "productName": "TV",
+            "productPrice": 2999,
+            "productPhoto": "https://www.sony.com.tr/image/aa79dd780f64b0bb4c6ce4efc46a083d?fmt=pjpeg&resMode=bisharp&wid=354" 
+        },
+        {
+            "id":5,
+            "productName": "Tablet",
+            "productPrice": 1699,
+            "productPhoto": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/129953-7_small.jpg" 
+        },
+        {
+            "id":6,
+            "productName": "Monitor",
+            "productPrice": 499,
+            "productPhoto": "https://www.lg.com/tr/images/monitor/MD05927236/gallery/medium03.jpg" 
+        },        {
+            "id":7,
+            "productName": "Headphone",
+            "productPrice": 199,
+            "productPhoto": "https://www.sony.com.tr/image/8f499d4640b363762e66edd1a4916a10?fmt=png-alpha&wid=440" 
+        },
+        {
+            "id":8,
+            "productName": "Graphic Card",
+            "productPrice": 899,
+            "productPhoto": "https://uidesign.gbtcdn.com/gb_blog/2741/Colorful-GeForce-iGame-GTX-1060-Vulcan-U-6G-Graphics-Card.JPG" 
+        },
+        {
+            "id":9,
+            "productName": "Keyboard",
+            "productPrice": 99,
+            "productPhoto": "https://cdn.sandberg.world/products/images/lg/631-10_lg.jpg" 
+        },
+        {
+            "id":10,
+            "productName": "Mouse",
+            "productPrice": 99,
+            "productPhoto": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTIbYxOnZQT2Q7sek9xs2zW0wHtq0qF1Des3X3aLBGYLgXggDZRZ3pXDAUQ8KVhKqcBtLQlegfsNrIpI6k0WxM" 
+        },
+        {
+            "id":11,
+            "productName": "Ram",
+            "productPrice": 399,
+            "productPhoto": "https://productimages.hepsiburada.net/s/12/375/8920466096178.jpg" 
+        },
+        {
+            "id":12,
+            "productName": "Processor",
+            "productPrice": 599,
+            "productPhoto": "https://m.media-amazon.com/images/I/51IAlVzb4lL._AC_SX450_.jpg" 
+        }  
+]

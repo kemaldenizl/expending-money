@@ -1,0 +1,18 @@
+body {
+    background-color: #F3F3F3;
+}
+
+.productContainer {
+    padding-top:1rem ;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-bottom: 4rem;
+}
+.naviContainer {
+    padding-top: 1rem;
+    margin-right: 1rem ;
+}
+img {
+    height: 14.25rem;
+    width: 17.375;
+}
